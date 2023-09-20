@@ -1,0 +1,14 @@
+npm create vite
+npm install
+npm run dev - equivalente al npm run
+npm install -D tailwindcss
+npx tailwindcss init -p
+
+main.jsx equivalente al index.html
+npm run build - hace una build del proyecto ! 
+
+atajos:
+*imp
+*n
+*clg console.log
+*rfce crear nuevo componente react
